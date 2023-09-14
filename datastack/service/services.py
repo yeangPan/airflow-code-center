@@ -15,5 +15,5 @@ from __future__ import annotations
 import typing
 
 def deploy():
-    pass
+    print('datastack deploy')
 
